@@ -5,16 +5,16 @@
 a = int(input('Enter the first number: '))
 b = int(input('Enter the second number: '))
 c = int(input('Enter the third number: '))
-MAX = 0
+max = 0
 
 if  b <= a >= c:
-    MAX = a 
+    max = a 
     
 if  a <= b >= c:
-    MAX = b 
+    max = b 
      
 elif a <= c >= b:
-     MAX = c    
+     max = c    
    
 print("The max is: ",MAX) 
     
