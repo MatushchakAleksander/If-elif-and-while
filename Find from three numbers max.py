@@ -16,7 +16,7 @@ if  a <= b >= c:
 elif a <= c >= b:
      max = c    
    
-print("The max is: ",MAX) 
+print("The max is: ",max) 
     
 
 
